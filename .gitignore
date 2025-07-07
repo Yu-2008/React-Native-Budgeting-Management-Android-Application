@@ -64,3 +64,10 @@ yarn-error.log
 
 # testing
 /coverage
+
+# Config
+# Do not track these sensitive config files
+src/config/FirebaseConfig.ts
+src/config/abstractEmailConfig.ts
+src/config/openCageConfig.ts
+src/config/pubnubConfig.ts
