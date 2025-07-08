@@ -59,6 +59,7 @@ Users can permanently delete their account. Once account is deleted, all associa
 |Geolocation|Used for tracking location in latitude and longitude format.|
 |OpenCage Geocoding API|Used to convert latitude and longitude into meaningful and human-understandable location name.|
 |PubNub Real-Time API|Used for real-time data sync.|
+
 ***Remark:***Please refers to "package.json" file for all used dependencies.
 
 
