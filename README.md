@@ -129,7 +129,7 @@ Now that you have successfully run the app, let's modify it.
 
 ## Step 4: Download all folders and files (except "package.json") from this repository
 
-If everything is alright, let's installing the dependencies. Please enter your root react native folder by using terminal or CMD and run the following command:
+If everything goes well, let's installing the dependencies. Please enter your React Native root directory by using terminal or CMD and run the following command:
 
  ```bash
 # using npm
